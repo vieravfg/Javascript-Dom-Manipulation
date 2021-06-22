@@ -1,6 +1,8 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 I am submitting two folders with their corresponding javascript and html files. 
+
+
 For UFO-level-1 this are the following shortcuts: 
 
 * [level-1-js](UFO-level-1/static/js/data.js) -  Javascript
