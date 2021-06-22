@@ -1,5 +1,16 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
+I am submitting two folders with their corresponding javascript and html files. 
+For UFO-level-1 this are the following shortcuts: 
+* [level-1-js](UFO-level-1/static/js/data.js) -  Javascript
+* [level-1-html](UFO-level-1/index.html) - HTML
+* [level-1-css](UFO-level-1/static/css/style.css)- CSS
+Level 1
+For UFO-level-2 this are the following shortcuts: 
+* [level-2-js](UFO-level-2/static/js/data.js) -  Javascript
+* [level-2-html](UFO-level-2/index.html) - HTML
+* [level-2-css](UFO-level-2/static/css/style.css)- CSS
+
 ## Instructions:
 ### Level 1: Automatic Table and Date Search (Required)
 
