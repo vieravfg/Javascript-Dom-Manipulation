@@ -8,7 +8,7 @@ var tableData = data;
 var tbody = d3.select("tbody")
 var button = d3.select("#filter-btn");
 var reset = d3.select("#reset-btn");
-var form = d3.select("#datetime")
+var form = d3.select("form")
 
 //Create function for table
 function newtable(realdata) {
