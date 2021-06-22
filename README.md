@@ -1,6 +1,6 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
-I am submitting two folders with their corresponding javascript and html files. 
+I am submitting two folders with their corresponding Javascript, HTML and CSS files. 
 
 
 For UFO-level-1 this are the following shortcuts: 
