@@ -15,6 +15,11 @@ body {
 tbody{ 
   background: radial-gradient(ellipse at bottom, #463fa9 0%, #090a0f 100%);}
 
+.btn-default {
+  color: white;
+  background-color: #331923;
+}
+
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
 .wrapper {
   position: relative;
@@ -143,6 +148,16 @@ select {
   color: #8e979f;
 }
 
+/* change color of filter */
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  background-color: #255280;
+  border: 1px solid #6f3c3c00;
+}
+
 /* media queries which will only be activated at specific screen sizes */
 @media (max-width: 800px) {
   #table-area td {
@@ -202,6 +217,7 @@ select {
   background: radial-gradient(ellipse at bottom, #2f185c 0%, #090a0f 100%);
 
 }
+
 /* keyframe animations which will be used to animate the title */
 @keyframes title {
   from {
