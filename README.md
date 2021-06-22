@@ -11,9 +11,9 @@ For UFO-level-1 this are the following shortcuts:
 
 For UFO-level-2 this are the following shortcuts: 
 
-* [level-2-js](UFO-level-2/static/js/data.js) -  Javascript
-* [level-2-html](UFO-level-2/index.html) - HTML
-* [level-2-css](UFO-level-2/static/css/style.css)- CSS
+* [bonus-js](UFO-level-2/static/js/data.js) -  Javascript
+* [bonus-html](UFO-level-2/index.html) - HTML
+* [bonus-css](UFO-level-2/static/css/style.css)- CSS
 
 ## Instructions:
 ### Level 1: Automatic Table and Date Search (Required)
