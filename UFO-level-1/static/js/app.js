@@ -51,7 +51,7 @@ function runEnter() {
   newtable(filteredData)
   }
 
-
+// Reset table 
 reset.on("click", () => {
   tbody.html("");
   newtable(data);
