@@ -1,9 +1,35 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
-## Instructions:
+I am submitting two folders with their corresponding Javascript, HTML and CSS files. 
+
+
+For UFO-level-1 this are the following shortcuts: 
+
+* [level-1-js](UFO-level-1/static/js/data.js) -  Javascript
+* [level-1-html](UFO-level-1/index.html) - HTML
+* [level-1-css](UFO-level-1/static/css/style.css)- CSS
+
+For UFO-level-2 this are the following shortcuts: 
+
+* [bonus-js](UFO-level-2/static/js/data.js) -  Javascript
+* [bonus-html](UFO-level-2/index.html) - HTML
+* [bonus-css](UFO-level-2/static/css/style.css)- CSS
+
+## Background
+
+WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
+
+There is just one tiny problem though... our collection is too large to search through manually. Even our most dedicated followers are complaining that they are having trouble locating specific reports in this mess.
+
+That's why we are hiring you. We need you to write code that will create a table dynamically based upon a dataset we provide. We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
+
+You can handle this... right? The planet Earth needs to know what we have found!
+
+
+## Instructions
 ### Level 1: Automatic Table and Date Search (Required)
 
-* Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
+* Create a basic HTML web page or use the index.html file provided (we recommend building your own custom page!).
 
 * Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
 
@@ -27,4 +53,4 @@
 
 ### Dataset
 
-* [UFO Sightings Data](StarterCode/static/js/data.js)
+* [UFO Sightings Data](UFO-level-1/static/js/data.js)
