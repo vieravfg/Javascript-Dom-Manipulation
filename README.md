@@ -1,4 +1,4 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# JavaScript Assignment - JavaScript and DOM Manipulation
 
 I am submitting two folders with their corresponding Javascript, HTML and CSS files. 
 
