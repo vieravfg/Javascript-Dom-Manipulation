@@ -10,7 +10,7 @@ For UFO-level-1 this are the following shortcuts:
 * [level-1-css](UFO-level-1/static/css/style.css)- CSS
 
 For UFO-level-2 one can view the page by clicking on this link: 
-https://vieravfg.github.io/javascript-challenge/
+https://vieravfg.github.io/Javascript-Dom-Manipulation/
 
 ## Background
 
