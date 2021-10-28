@@ -9,11 +9,7 @@ For UFO-level-1 this are the following shortcuts:
 * [level-1-html](UFO-level-1/index.html) - HTML
 * [level-1-css](UFO-level-1/static/css/style.css)- CSS
 
-For UFO-level-2 this are the following shortcuts: 
-
-* [bonus-js](UFO-level-2/static/js/data.js) -  Javascript
-* [bonus-html](UFO-level-2/index.html) - HTML
-* [bonus-css](UFO-level-2/static/css/style.css)- CSS
+For UFO-level-2 one can view the page by clicking on this link: 
 
 ## Background
 
